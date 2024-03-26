@@ -24,6 +24,8 @@ krūz N5dekl;
 sēn N5dekl;
 rīkst N5dekl;
 sakn N5dekl;
+durv DSKdekl;
+
 
 LEXICON N1dekl
         +N+Sg+Nom:^s  # ;
@@ -60,3 +62,10 @@ LEXICON N3dekl
         +N+Pl+Dat:^Miem #;
         +N+Pl+Acc:^Mus #;
         +N+Pl+Loc:^Mos #;
+
+LEXICON DSKdekl
+        +N+Pl+Nom:^is  #;
+        +N+Pl+Gen:^Mu  #;
+        +N+Pl+Dat:^īm #;
+        +N+Pl+Acc:^is #;
+        +N+Pl+Loc:^īs #;
